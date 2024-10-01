@@ -10,5 +10,5 @@ Here is the screenshot of the project.
   <li> Add Todo by pressing Enter key</li>
   <li> Delete Todo</li>
  </ol>
- <a> I. am soon going to deploy this project .</a>
+ <a> I. am soon going to deploy this project .</a> <br>
  <a> For the instance you can check out my source code.</a>
